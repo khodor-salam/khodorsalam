@@ -1,5 +1,5 @@
 # khodorsalam
-My GitHub profile
+
 ### Hi, I'm Khodor Salam 👋
 
 **Co-Founder of [Go X](https://goxapp.com)** — building the world's first self-driving electric scooter network.
@@ -27,4 +27,3 @@ Sanford, Florida 🇺🇸
 ### 🎓 Education
 M.A., Hult International Business School
 
-<img width="468" height="467" alt="image" src="https://github.com/user-attachments/assets/7522b351-5b3a-42d4-949b-3f4d4c39d8e2" />
